@@ -174,8 +174,8 @@ project/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/patient-health-analysis.git
-cd patient-health-analysis
+git clone https://github.com/Shiva9855/Thiranex_project-4.git
+cd Thiranex_project-4
 ```
 
 ### 2. Install Required Libraries
